@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning git and golang
 - 💞️ I’m looking to collaborate on ...no at the moment
 - 📫 How to reach me ... see above
-no BS
+- no BS
 - ⚡ Fun fact: ... US bankers were sponsors of communist revolution in Russia. Wonder why.
 
 <!---
